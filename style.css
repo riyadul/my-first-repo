@@ -6,3 +6,6 @@ h1{
     padding: 15px;
     text-align: justify;
 }
+p{
+    background: rgb(0, 0, 0);
+}
